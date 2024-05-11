@@ -1,5 +1,7 @@
 ### Hi my name is Jesús Quiróz Rojas 👋
 
+![Banner_1](1.png)
+
 <!--
 **JesusCK/JesusCK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
