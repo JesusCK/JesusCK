@@ -2,6 +2,8 @@
 
 ![Banner_1](1.png)
 
+![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/jesus-david-quiroz-rojas-486a37235/)
+
 
 Electronic Engineering student in the ninth semester with experience as a teaching assistant in various subjects including calculus, pre-calculus, electromagnetic theory, modern physics, and signals and systems. Active participant in career-related tournaments such as the ZAGI AESS RACE 2022 in Bogotá, focusing on fixed-wing drones.
 
