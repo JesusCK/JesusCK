@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Banner_2](muestra.gif)
 
+![Banner_3](2.png)
